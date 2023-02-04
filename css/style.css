@@ -1006,3 +1006,12 @@ input.mail_bt::placeholder {
     clear: both;
 }
 /* copyright section end */
+.dropdown {
+    width: 30rem;
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, var(white), var(#2b2a29));
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 5rem;
+}
