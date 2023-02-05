@@ -664,19 +664,12 @@ a:hover {
     right: 615px;
     top: 105%;
 }
-#female_fashion a.carousel-control-next {
-    right: 615px;
-    top: 105%;
-}
 
 #main_slider a.carousel-control-prev {
     left: 615px;
     top: 105%;
 }
-#female_fashion a.carousel-control-prev {
-    left: 615px;
-    top: 105%;
-}
+
 #main_slider .carousel-control-next,
 #main_slider .carousel-control-prev {
     width: 55px;
@@ -686,16 +679,6 @@ a:hover {
     font-size: 30px;
     color: #ffffff;
 }
-#female_fashion .carousel-control-next,
-#female_fashion .carousel-control-prev {
-    width: 55px;
-    height: 55px;
-    background-color: #30302e;
-    opacity: 1;
-    font-size: 30px;
-    color: #ffffff;
-}
-
 
 #main_slider .carousel-control-next:focus,
 #main_slider .carousel-control-next:hover,
@@ -704,13 +687,7 @@ a:hover {
     color: #fff;
     background-color: #f26522;
 }
-#female_fashion .carousel-control-next:focus,
-#female_fashion .carousel-control-next:hover,
-#female_fashion .carousel-control-prev:focus,
-#female_fashion .carousel-control-prev:hover {
-    color: #fff;
-    background-color: #f26522;
-}
+
 
 /* fashion section end */
 
@@ -728,7 +705,6 @@ a:hover {
     right: 615px;
     top: 105%;
 }
-
 
 #electronic_main_slider a.carousel-control-prev {
     left: 615px;
